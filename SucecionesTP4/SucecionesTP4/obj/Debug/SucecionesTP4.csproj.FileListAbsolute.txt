@@ -1,0 +1,10 @@
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\SucecionesTP4\SucecionesTP4\bin\Debug\SucecionesTP4.exe.config
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\SucecionesTP4\SucecionesTP4\bin\Debug\SucecionesTP4.exe
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\SucecionesTP4\SucecionesTP4\bin\Debug\SucecionesTP4.pdb
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\SucecionesTP4\SucecionesTP4\obj\Debug\SucecionesTP4.csproj.AssemblyReference.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\SucecionesTP4\SucecionesTP4\obj\Debug\SucecionesTP4.FSuceciones.resources
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\SucecionesTP4\SucecionesTP4\obj\Debug\SucecionesTP4.Properties.Resources.resources
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\SucecionesTP4\SucecionesTP4\obj\Debug\SucecionesTP4.csproj.GenerateResource.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\SucecionesTP4\SucecionesTP4\obj\Debug\SucecionesTP4.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\SucecionesTP4\SucecionesTP4\obj\Debug\SucecionesTP4.exe
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\SucecionesTP4\SucecionesTP4\obj\Debug\SucecionesTP4.pdb
