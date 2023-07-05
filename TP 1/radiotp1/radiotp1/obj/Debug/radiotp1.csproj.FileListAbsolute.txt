@@ -1,0 +1,10 @@
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Clase 1\radiotp1\radiotp1\bin\Debug\radiotp1.exe.config
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Clase 1\radiotp1\radiotp1\bin\Debug\radiotp1.exe
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Clase 1\radiotp1\radiotp1\bin\Debug\radiotp1.pdb
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Clase 1\radiotp1\radiotp1\obj\Debug\radiotp1.csproj.AssemblyReference.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Clase 1\radiotp1\radiotp1\obj\Debug\radiotp1.fRadio.resources
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Clase 1\radiotp1\radiotp1\obj\Debug\radiotp1.Properties.Resources.resources
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Clase 1\radiotp1\radiotp1\obj\Debug\radiotp1.csproj.GenerateResource.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Clase 1\radiotp1\radiotp1\obj\Debug\radiotp1.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Clase 1\radiotp1\radiotp1\obj\Debug\radiotp1.exe
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Clase 1\radiotp1\radiotp1\obj\Debug\radiotp1.pdb
