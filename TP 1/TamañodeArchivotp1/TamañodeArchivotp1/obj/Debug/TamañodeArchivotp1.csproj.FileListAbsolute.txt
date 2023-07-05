@@ -1,0 +1,9 @@
+C:\Users\Marcelo\source\repos\TamañodeArchivotp1\TamañodeArchivotp1\bin\Debug\TamañodeArchivotp1.exe.config
+C:\Users\Marcelo\source\repos\TamañodeArchivotp1\TamañodeArchivotp1\bin\Debug\TamañodeArchivotp1.exe
+C:\Users\Marcelo\source\repos\TamañodeArchivotp1\TamañodeArchivotp1\bin\Debug\TamañodeArchivotp1.pdb
+C:\Users\Marcelo\source\repos\TamañodeArchivotp1\TamañodeArchivotp1\obj\Debug\TamañodeArchivotp1.Form1.resources
+C:\Users\Marcelo\source\repos\TamañodeArchivotp1\TamañodeArchivotp1\obj\Debug\TamañodeArchivotp1.Properties.Resources.resources
+C:\Users\Marcelo\source\repos\TamañodeArchivotp1\TamañodeArchivotp1\obj\Debug\TamañodeArchivotp1.csproj.GenerateResource.cache
+C:\Users\Marcelo\source\repos\TamañodeArchivotp1\TamañodeArchivotp1\obj\Debug\TamañodeArchivotp1.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\TamañodeArchivotp1\TamañodeArchivotp1\obj\Debug\TamañodeArchivotp1.exe
+C:\Users\Marcelo\source\repos\TamañodeArchivotp1\TamañodeArchivotp1\obj\Debug\TamañodeArchivotp1.pdb

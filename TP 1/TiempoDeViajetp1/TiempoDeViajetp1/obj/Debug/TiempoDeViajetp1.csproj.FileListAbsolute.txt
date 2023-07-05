@@ -1,0 +1,10 @@
+C:\Users\Marcelo\source\repos\TiempoDeViajetp1\TiempoDeViajetp1\obj\Debug\TiempoDeViajetp1.csproj.AssemblyReference.cache
+C:\Users\Marcelo\source\repos\TiempoDeViajetp1\TiempoDeViajetp1\obj\Debug\TiempoDeViajetp1.TiempoDeViaje.resources
+C:\Users\Marcelo\source\repos\TiempoDeViajetp1\TiempoDeViajetp1\obj\Debug\TiempoDeViajetp1.Properties.Resources.resources
+C:\Users\Marcelo\source\repos\TiempoDeViajetp1\TiempoDeViajetp1\obj\Debug\TiempoDeViajetp1.csproj.GenerateResource.cache
+C:\Users\Marcelo\source\repos\TiempoDeViajetp1\TiempoDeViajetp1\obj\Debug\TiempoDeViajetp1.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\TiempoDeViajetp1\TiempoDeViajetp1\bin\Debug\TiempoDeViajetp1.exe.config
+C:\Users\Marcelo\source\repos\TiempoDeViajetp1\TiempoDeViajetp1\bin\Debug\TiempoDeViajetp1.exe
+C:\Users\Marcelo\source\repos\TiempoDeViajetp1\TiempoDeViajetp1\bin\Debug\TiempoDeViajetp1.pdb
+C:\Users\Marcelo\source\repos\TiempoDeViajetp1\TiempoDeViajetp1\obj\Debug\TiempoDeViajetp1.exe
+C:\Users\Marcelo\source\repos\TiempoDeViajetp1\TiempoDeViajetp1\obj\Debug\TiempoDeViajetp1.pdb

@@ -1,0 +1,9 @@
+C:\Users\Marcelo\source\repos\NumeroNaturalesInvertidostp1\NumeroNaturalesInvertidostp1\bin\Debug\NumeroNaturalesInvertidostp1.exe.config
+C:\Users\Marcelo\source\repos\NumeroNaturalesInvertidostp1\NumeroNaturalesInvertidostp1\bin\Debug\NumeroNaturalesInvertidostp1.exe
+C:\Users\Marcelo\source\repos\NumeroNaturalesInvertidostp1\NumeroNaturalesInvertidostp1\bin\Debug\NumeroNaturalesInvertidostp1.pdb
+C:\Users\Marcelo\source\repos\NumeroNaturalesInvertidostp1\NumeroNaturalesInvertidostp1\obj\Debug\NumeroNaturalesInvertidostp1.Form1.resources
+C:\Users\Marcelo\source\repos\NumeroNaturalesInvertidostp1\NumeroNaturalesInvertidostp1\obj\Debug\NumeroNaturalesInvertidostp1.Properties.Resources.resources
+C:\Users\Marcelo\source\repos\NumeroNaturalesInvertidostp1\NumeroNaturalesInvertidostp1\obj\Debug\NumeroNaturalesInvertidostp1.csproj.GenerateResource.cache
+C:\Users\Marcelo\source\repos\NumeroNaturalesInvertidostp1\NumeroNaturalesInvertidostp1\obj\Debug\NumeroNaturalesInvertidostp1.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\NumeroNaturalesInvertidostp1\NumeroNaturalesInvertidostp1\obj\Debug\NumeroNaturalesInvertidostp1.exe
+C:\Users\Marcelo\source\repos\NumeroNaturalesInvertidostp1\NumeroNaturalesInvertidostp1\obj\Debug\NumeroNaturalesInvertidostp1.pdb
