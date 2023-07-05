@@ -1,0 +1,10 @@
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\FraseTP4\FraseTP4\bin\Debug\FraseTP4.exe.config
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\FraseTP4\FraseTP4\bin\Debug\FraseTP4.exe
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\FraseTP4\FraseTP4\bin\Debug\FraseTP4.pdb
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\FraseTP4\FraseTP4\obj\Debug\FraseTP4.csproj.AssemblyReference.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\FraseTP4\FraseTP4\obj\Debug\FraseTP4.FFrase.resources
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\FraseTP4\FraseTP4\obj\Debug\FraseTP4.Properties.Resources.resources
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\FraseTP4\FraseTP4\obj\Debug\FraseTP4.csproj.GenerateResource.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\FraseTP4\FraseTP4\obj\Debug\FraseTP4.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\FraseTP4\FraseTP4\obj\Debug\FraseTP4.exe
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\FraseTP4\FraseTP4\obj\Debug\FraseTP4.pdb
