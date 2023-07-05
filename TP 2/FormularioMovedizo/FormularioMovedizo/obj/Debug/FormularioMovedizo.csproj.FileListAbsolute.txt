@@ -1,0 +1,10 @@
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 2\FormularioMovedizo\FormularioMovedizo\bin\Debug\FormularioMovedizo.exe.config
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 2\FormularioMovedizo\FormularioMovedizo\bin\Debug\FormularioMovedizo.exe
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 2\FormularioMovedizo\FormularioMovedizo\bin\Debug\FormularioMovedizo.pdb
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 2\FormularioMovedizo\FormularioMovedizo\obj\Debug\FormularioMovedizo.csproj.AssemblyReference.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 2\FormularioMovedizo\FormularioMovedizo\obj\Debug\FormularioMovedizo.FMovedizo.resources
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 2\FormularioMovedizo\FormularioMovedizo\obj\Debug\FormularioMovedizo.Properties.Resources.resources
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 2\FormularioMovedizo\FormularioMovedizo\obj\Debug\FormularioMovedizo.csproj.GenerateResource.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 2\FormularioMovedizo\FormularioMovedizo\obj\Debug\FormularioMovedizo.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 2\FormularioMovedizo\FormularioMovedizo\obj\Debug\FormularioMovedizo.exe
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 2\FormularioMovedizo\FormularioMovedizo\obj\Debug\FormularioMovedizo.pdb
