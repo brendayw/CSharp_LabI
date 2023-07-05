@@ -1,0 +1,10 @@
+C:\Users\Marcelo\source\repos\Sumadigitostp1\Sumadigitostp1\obj\Debug\Sumadigitostp1.csproj.AssemblyReference.cache
+C:\Users\Marcelo\source\repos\Sumadigitostp1\Sumadigitostp1\obj\Debug\Sumadigitostp1.Suma.resources
+C:\Users\Marcelo\source\repos\Sumadigitostp1\Sumadigitostp1\obj\Debug\Sumadigitostp1.Properties.Resources.resources
+C:\Users\Marcelo\source\repos\Sumadigitostp1\Sumadigitostp1\obj\Debug\Sumadigitostp1.csproj.GenerateResource.cache
+C:\Users\Marcelo\source\repos\Sumadigitostp1\Sumadigitostp1\obj\Debug\Sumadigitostp1.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\Sumadigitostp1\Sumadigitostp1\bin\Debug\Sumadigitostp1.exe.config
+C:\Users\Marcelo\source\repos\Sumadigitostp1\Sumadigitostp1\bin\Debug\Sumadigitostp1.exe
+C:\Users\Marcelo\source\repos\Sumadigitostp1\Sumadigitostp1\bin\Debug\Sumadigitostp1.pdb
+C:\Users\Marcelo\source\repos\Sumadigitostp1\Sumadigitostp1\obj\Debug\Sumadigitostp1.exe
+C:\Users\Marcelo\source\repos\Sumadigitostp1\Sumadigitostp1\obj\Debug\Sumadigitostp1.pdb

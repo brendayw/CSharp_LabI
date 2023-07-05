@@ -1,0 +1,20 @@
+C:\Users\Marcelo\source\repos\SumaTiempostp1\SumaTiempostp1\bin\Debug\SumaTiempostp1.exe.config
+C:\Users\Marcelo\source\repos\SumaTiempostp1\SumaTiempostp1\bin\Debug\SumaTiempostp1.exe
+C:\Users\Marcelo\source\repos\SumaTiempostp1\SumaTiempostp1\bin\Debug\SumaTiempostp1.pdb
+C:\Users\Marcelo\source\repos\SumaTiempostp1\SumaTiempostp1\obj\Debug\SumaTiempostp1.csproj.AssemblyReference.cache
+C:\Users\Marcelo\source\repos\SumaTiempostp1\SumaTiempostp1\obj\Debug\SumaTiempostp1.SumarTiempos.resources
+C:\Users\Marcelo\source\repos\SumaTiempostp1\SumaTiempostp1\obj\Debug\SumaTiempostp1.Properties.Resources.resources
+C:\Users\Marcelo\source\repos\SumaTiempostp1\SumaTiempostp1\obj\Debug\SumaTiempostp1.csproj.GenerateResource.cache
+C:\Users\Marcelo\source\repos\SumaTiempostp1\SumaTiempostp1\obj\Debug\SumaTiempostp1.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\SumaTiempostp1\SumaTiempostp1\obj\Debug\SumaTiempostp1.exe
+C:\Users\Marcelo\source\repos\SumaTiempostp1\SumaTiempostp1\obj\Debug\SumaTiempostp1.pdb
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 1\SumaTiempostp1\SumaTiempostp1\bin\Debug\SumaTiempostp1.exe.config
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 1\SumaTiempostp1\SumaTiempostp1\bin\Debug\SumaTiempostp1.exe
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 1\SumaTiempostp1\SumaTiempostp1\obj\Debug\SumaTiempostp1.csproj.AssemblyReference.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 1\SumaTiempostp1\SumaTiempostp1\obj\Debug\SumaTiempostp1.Properties.Resources.resources
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 1\SumaTiempostp1\SumaTiempostp1\obj\Debug\SumaTiempostp1.csproj.GenerateResource.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 1\SumaTiempostp1\SumaTiempostp1\obj\Debug\SumaTiempostp1.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 1\SumaTiempostp1\SumaTiempostp1\obj\Debug\SumaTiempostp1.exe
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 1\SumaTiempostp1\SumaTiempostp1\obj\Debug\SumaTiempostp1.pdb
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 1\SumaTiempostp1\SumaTiempostp1\obj\Debug\SumaTiempostp1.FSumarTiempos.resources
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 1\SumaTiempostp1\SumaTiempostp1\bin\Debug\SumaTiempostp1.pdb

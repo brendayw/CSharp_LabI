@@ -1,0 +1,10 @@
+C:\Users\Marcelo\source\repos\SalariodeEmpleadotp1\SalariodeEmpleadotp1\bin\Debug\SalariodeEmpleadotp1.exe.config
+C:\Users\Marcelo\source\repos\SalariodeEmpleadotp1\SalariodeEmpleadotp1\bin\Debug\SalariodeEmpleadotp1.exe
+C:\Users\Marcelo\source\repos\SalariodeEmpleadotp1\SalariodeEmpleadotp1\bin\Debug\SalariodeEmpleadotp1.pdb
+C:\Users\Marcelo\source\repos\SalariodeEmpleadotp1\SalariodeEmpleadotp1\obj\Debug\SalariodeEmpleadotp1.csproj.AssemblyReference.cache
+C:\Users\Marcelo\source\repos\SalariodeEmpleadotp1\SalariodeEmpleadotp1\obj\Debug\SalariodeEmpleadotp1.SueldoEmpleado.resources
+C:\Users\Marcelo\source\repos\SalariodeEmpleadotp1\SalariodeEmpleadotp1\obj\Debug\SalariodeEmpleadotp1.Properties.Resources.resources
+C:\Users\Marcelo\source\repos\SalariodeEmpleadotp1\SalariodeEmpleadotp1\obj\Debug\SalariodeEmpleadotp1.csproj.GenerateResource.cache
+C:\Users\Marcelo\source\repos\SalariodeEmpleadotp1\SalariodeEmpleadotp1\obj\Debug\SalariodeEmpleadotp1.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\SalariodeEmpleadotp1\SalariodeEmpleadotp1\obj\Debug\SalariodeEmpleadotp1.exe
+C:\Users\Marcelo\source\repos\SalariodeEmpleadotp1\SalariodeEmpleadotp1\obj\Debug\SalariodeEmpleadotp1.pdb
