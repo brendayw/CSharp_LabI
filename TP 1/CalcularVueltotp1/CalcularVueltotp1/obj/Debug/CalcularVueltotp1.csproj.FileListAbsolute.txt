@@ -1,9 +1,0 @@
-C:\Users\Marcelo\source\repos\CalcularVueltotp1\CalcularVueltotp1\bin\Debug\CalcularVueltotp1.exe.config
-C:\Users\Marcelo\source\repos\CalcularVueltotp1\CalcularVueltotp1\bin\Debug\CalcularVueltotp1.exe
-C:\Users\Marcelo\source\repos\CalcularVueltotp1\CalcularVueltotp1\bin\Debug\CalcularVueltotp1.pdb
-C:\Users\Marcelo\source\repos\CalcularVueltotp1\CalcularVueltotp1\obj\Debug\CalcularVueltotp1.Form1.resources
-C:\Users\Marcelo\source\repos\CalcularVueltotp1\CalcularVueltotp1\obj\Debug\CalcularVueltotp1.Properties.Resources.resources
-C:\Users\Marcelo\source\repos\CalcularVueltotp1\CalcularVueltotp1\obj\Debug\CalcularVueltotp1.csproj.GenerateResource.cache
-C:\Users\Marcelo\source\repos\CalcularVueltotp1\CalcularVueltotp1\obj\Debug\CalcularVueltotp1.csproj.CoreCompileInputs.cache
-C:\Users\Marcelo\source\repos\CalcularVueltotp1\CalcularVueltotp1\obj\Debug\CalcularVueltotp1.exe
-C:\Users\Marcelo\source\repos\CalcularVueltotp1\CalcularVueltotp1\obj\Debug\CalcularVueltotp1.pdb
