@@ -1,0 +1,10 @@
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\IngresoTP4\IngresoTP4\bin\Debug\IngresoTP4.exe.config
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\IngresoTP4\IngresoTP4\bin\Debug\IngresoTP4.exe
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\IngresoTP4\IngresoTP4\bin\Debug\IngresoTP4.pdb
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\IngresoTP4\IngresoTP4\obj\Debug\IngresoTP4.csproj.AssemblyReference.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\IngresoTP4\IngresoTP4\obj\Debug\IngresoTP4.FIngreso.resources
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\IngresoTP4\IngresoTP4\obj\Debug\IngresoTP4.Properties.Resources.resources
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\IngresoTP4\IngresoTP4\obj\Debug\IngresoTP4.csproj.GenerateResource.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\IngresoTP4\IngresoTP4\obj\Debug\IngresoTP4.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\IngresoTP4\IngresoTP4\obj\Debug\IngresoTP4.exe
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 4\IngresoTP4\IngresoTP4\obj\Debug\IngresoTP4.pdb
