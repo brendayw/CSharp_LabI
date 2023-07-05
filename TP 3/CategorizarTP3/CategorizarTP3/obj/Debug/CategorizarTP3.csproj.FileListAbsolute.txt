@@ -1,0 +1,10 @@
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 3\CategorizarTP3\CategorizarTP3\obj\Debug\CategorizarTP3.csproj.AssemblyReference.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 3\CategorizarTP3\CategorizarTP3\obj\Debug\CategorizarTP3.FCategoria.resources
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 3\CategorizarTP3\CategorizarTP3\obj\Debug\CategorizarTP3.Properties.Resources.resources
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 3\CategorizarTP3\CategorizarTP3\obj\Debug\CategorizarTP3.csproj.GenerateResource.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 3\CategorizarTP3\CategorizarTP3\obj\Debug\CategorizarTP3.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 3\CategorizarTP3\CategorizarTP3\bin\Debug\CategorizarTP3.exe.config
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 3\CategorizarTP3\CategorizarTP3\bin\Debug\CategorizarTP3.exe
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 3\CategorizarTP3\CategorizarTP3\bin\Debug\CategorizarTP3.pdb
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 3\CategorizarTP3\CategorizarTP3\obj\Debug\CategorizarTP3.exe
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 3\CategorizarTP3\CategorizarTP3\obj\Debug\CategorizarTP3.pdb
