@@ -1,0 +1,10 @@
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 5\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 5\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 5\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.FDeportes.resources
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
