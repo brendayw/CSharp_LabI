@@ -1,0 +1,10 @@
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 1\CalcularArena\CalcularArena\bin\Debug\CalcularArena.exe.config
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 1\CalcularArena\CalcularArena\bin\Debug\CalcularArena.exe
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 1\CalcularArena\CalcularArena\bin\Debug\CalcularArena.pdb
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 1\CalcularArena\CalcularArena\obj\Debug\CalcularArena.csproj.AssemblyReference.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 1\CalcularArena\CalcularArena\obj\Debug\CalcularArena.FCalcularArena.resources
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 1\CalcularArena\CalcularArena\obj\Debug\CalcularArena.Properties.Resources.resources
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 1\CalcularArena\CalcularArena\obj\Debug\CalcularArena.csproj.GenerateResource.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 1\CalcularArena\CalcularArena\obj\Debug\CalcularArena.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 1\CalcularArena\CalcularArena\obj\Debug\CalcularArena.exe
+C:\Users\Marcelo\Downloads\Brenda\Universidad\UTN\Laboratorio\Practico 1\CalcularArena\CalcularArena\obj\Debug\CalcularArena.pdb
